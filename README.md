@@ -3,7 +3,7 @@ A website that displays a random cat fact and image.
 
 # How it works
 On load, the user's browser sends a request to [Cat Facts API]([https://www.ipify.org/](https://catfact.ninja/)). The API has entries with spelling and errors, this is for entertainment use only.
-Then, the code generates a random number and selects one of 20 images, and loads credits.
+Then, the code generates a random number and selects one of 21 images, and loads credits.
 The Montserrat font is from [fonts.upset.dev](https://upset.dev/fonts). The images are from [Pexels](https://www.pexels.com/).
 
 # How to use it
